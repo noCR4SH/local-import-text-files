@@ -1,0 +1,10 @@
+Objective:
+Create a Python program that allows users to interactively manage a list of their favorite movies. 
+The program should provide options to add a new movie, view all movies, save the movie list to a file, 
+and load the movie list from a file.
+
+Requirements:
+Use functions to structure your code for adding a movie, displaying the movie list, saving the list to a file, and loading the list from a file.
+Implement basic error handling for file operations.
+Make the program interactive, with user input determining the actions (e.g., add a movie, view list, save, load).
+Ensure the program is user-friendly with clear prompts and messages.
